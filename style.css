@@ -1,0 +1,46 @@
+.wrap {
+    height:800px;
+    width: auto;
+    display:flex;
+    flex-direction: column;
+    background-color: bisque;
+
+}
+
+.b1 {
+    height: 100px;
+    text-align: center;
+
+}
+.b2 {
+    flex-grow: 1;
+    height: 300px;
+    width: 1030px;
+    align-items: flex-end;
+    text-align: center;
+}
+.b3 {
+    height: 100px;
+    text-align: center;
+}
+.pink {
+    background-color: #92a7ec;
+
+}
+.grey {
+    background-color: #ee9f77;
+}
+.orange {
+    background-color: #de6e34;
+}
+
+.main {
+    height: 700;
+    width: 700;
+    background-color: #ffffff;
+}
+.menu {
+    align-items: flex-start;
+    background-color: #ad958a;
+    width: 400px;
+}
