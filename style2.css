@@ -1,0 +1,40 @@
+.wrap {
+    height:800px;
+    width: 700px;
+    display:flex;
+    flex-direction: column;
+    background-color: bisque;
+
+}
+
+.box1 {
+
+    height: 100px;
+    text-align: center;
+    background-color: #92a7ec;
+    align-items: flex-end;
+
+
+}
+.box2 {
+    flex-grow: 1;
+    height: 300px;
+    width: 300px;
+    align-items: flex-end;
+    text-align: center;
+    background-color: #ee9f77;
+
+
+}
+
+.main {
+    height: 700px;
+    width: 700px;
+    background-color: #ffffff;
+}
+.menu {
+    align-items: flex-start;
+    background-color: #ad958a;
+    width: 500px;
+    height: 300px;
+}
