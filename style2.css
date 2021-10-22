@@ -24,17 +24,19 @@
     text-align: center;
     background-color: #ee9f77;
 
-
 }
 
 .main {
     height: 700px;
     width: 700px;
     background-color: #ffffff;
+    justify-content: center;
+    text-align: center;
 }
 .menu {
-    align-items: flex-start;
+    align-items: center;
     background-color: #ad958a;
     width: 500px;
     height: 300px;
+
 }
