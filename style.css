@@ -35,12 +35,11 @@
 }
 
 .main {
-    height: 700;
-    width: 700;
+
     background-color: #ffffff;
 }
 .menu {
     align-items: flex-start;
     background-color: #ad958a;
-    width: 400px;
+    width: 700px;
 }
