@@ -1,0 +1,59 @@
+@media screen and (max-width: 400px) {
+    .top-icon {
+        display: none;
+    }
+
+    .nav__button {
+        display: flex;
+
+    }
+
+    .header__top_grid {
+        column-gap: 40px;
+    }
+
+    .item {
+        padding: 0;
+
+    }
+
+    .item_grid {
+        padding: 10px;
+    }
+
+    .item_menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .item_menus {
+        display: none;
+    }
+
+
+    .about__grid {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .thing {
+        width: 100%;
+    }
+.nav {
+    display: none;
+}
+.have {
+    flex-direction: column;
+}
+.extra {
+    display: none;
+}
+.boxy {
+    display: none;
+}
+}
+
+
