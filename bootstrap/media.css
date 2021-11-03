@@ -1,0 +1,36 @@
+@media screen and (max-width:400px){
+    .first-screen-left h1{
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .row {
+        display: block;
+        justify-content: center;
+    }
+.row__footer {
+    display: block;
+    justify-content: center;
+}
+
+    .third-part-two img {
+        width: 400px;
+        height:600px;
+    }
+
+
+    .footer-bottom {
+        display: block;
+    }
+.col-5 {
+    width: 100%;
+}
+.col-4 {
+    width: 100%;
+}
+    .col-3 {
+        width: 100%;
+
+    }
+
+}
