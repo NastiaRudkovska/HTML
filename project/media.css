@@ -1,0 +1,57 @@
+@media screen and (max-width:329px) {
+
+    .header-right {
+        display: none;
+    }
+
+.std {
+    display: none;
+}
+
+.header-left {
+    display: flex;
+
+}
+
+    .more__header {
+        display: flex;
+    }
+.media__n {
+    display: none;
+
+}
+
+.one {
+    display: none;
+}
+
+.one__media {
+    display: flex;
+    align-items: center;
+}
+
+.tpc {
+    column-gap: 10px;
+    margin-top: 5px;
+}
+.one__media img {
+    width: 50px;
+    height: 47px;
+}
+.two {
+    display: none;
+}
+.two__two__media {
+    display: block;
+}
+
+.footer-top {
+    display: block;
+    justify-content: center;
+}
+
+
+
+
+
+}
